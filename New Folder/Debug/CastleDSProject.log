@@ -1,0 +1,96 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Healer.cpp
+c:\users\nour\desktop\new folder\healer.cpp(11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\healer.cpp(14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\healer.cpp(35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\healer.cpp(37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\healer.cpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\healer.cpp(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GUI.cpp
+c:\users\nour\desktop\new folder\gui\gui.cpp(254): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: see declaration of 'itoa'
+  Freezer.cpp
+c:\users\nour\desktop\new folder\freezer.cpp(12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\freezer.cpp(15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\freezer.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\freezer.cpp(35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Fighter.cpp
+c:\users\nour\desktop\new folder\fighter.cpp(12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\fighter.cpp(15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\fighter.cpp(34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\fighter.cpp(36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Enemy.cpp
+c:\users\nour\desktop\new folder\enemies\enemy.cpp(12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\enemies\enemy.cpp(15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\enemies\enemy.cpp(168): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\enemies\enemy.cpp(169): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nour\desktop\new folder\enemies\enemy.cpp(172): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Demo_Main.cpp
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+c:\users\nour\desktop\new folder\cmugraphicslib\image.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  colors.cpp
+  CMUgraphics.cpp
+c:\users\nour\desktop\new folder\cmugraphicslib\cmugraphics.cpp(751): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\nour\desktop\new folder\cmugraphicslib\cmugraphics.cpp(1164): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\nour\desktop\new folder\cmugraphicslib\cmugraphics.cpp(1171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\nour\desktop\new folder\cmugraphicslib\cmugraphics.cpp(1202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\nour\desktop\new folder\cmugraphicslib\cmugraphics.cpp(1210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\nour\desktop\new folder\cmugraphicslib\cmugraphics.cpp(1357): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  Castle.cpp
+  Battle.cpp
+c:\users\nour\desktop\new folder\battle.cpp(376): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+c:\users\nour\desktop\new folder\cmugraphicslib\jpeg\jmemmgr.c(1103): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1191): note: see declaration of 'getenv'
+c:\users\nour\desktop\new folder\cmugraphicslib\jpeg\jmemmgr.c(1106): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+c:\users\nour\desktop\new folder\cmugraphicslib\jpeg\jerror.c(169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\nour\desktop\new folder\cmugraphicslib\jpeg\jerror.c(171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+c:\users\nour\desktop\new folder\cmugraphicslib\jpegload.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+Battle.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  CastleDSProject.vcxproj -> C:\Users\Nour\Desktop\New Folder\.\Debug\CastleDSProject.exe
